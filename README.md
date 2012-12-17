@@ -19,7 +19,7 @@ Downloading and using this script
 	mkdir bin # If you don't have ~/bin directory
 	cd ~/bin
 	git clone https://github.com/kulte/appcrush.git
-	mv ~/appcrush/appcrush.rb .
+	mv appcrush/appcrush.rb .
 	chmod +x appcrush.rb
 
 If you have ~/bin in your path, then this script will be executable from anywhere on your system.
