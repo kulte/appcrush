@@ -38,5 +38,5 @@ Usage Caveat
 
 This is really first and foremost, but it's worth mentioning that you should not use these images in your own applications. This technique is very useful to see how something was accomplished, but it is not meant as a tool for stealing other developer's assets!
 
-Happy Crushing!
+Happy Uncrushing!
 ---------------
